@@ -1,0 +1,11 @@
+--2017-07-06 07:34:28--  http://www.piano-midi.de/midis/tchaikovsky/ty_april.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14865 (15K) [audio/midi]
+Saving to: 'ty_april.mid'
+
+     0K .......... ....                                       100% 1.82M=0.008s
+
+2017-07-06 07:34:29 (1.82 MB/s) - 'ty_april.mid' saved [14865/14865]
+

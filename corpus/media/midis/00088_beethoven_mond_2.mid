@@ -1,0 +1,11 @@
+--2017-07-06 06:21:34--  http://www.piano-midi.de/midis/beethoven/mond_2.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9850 (9.6K) [audio/midi]
+Saving to: 'mond_2.mid'
+
+     0K .........                                             100%  794K=0.01s
+
+2017-07-06 06:21:35 (794 KB/s) - 'mond_2.mid' saved [9850/9850]
+

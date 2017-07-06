@@ -1,0 +1,11 @@
+--2017-07-06 06:03:47--  http://www.piano-midi.de/midis/grieg/grieg_spring.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17237 (17K) [audio/midi]
+Saving to: 'grieg_spring.mid'
+
+     0K .......... ......                                     100% 1.49M=0.01s
+
+2017-07-06 06:03:49 (1.49 MB/s) - 'grieg_spring.mid' saved [17237/17237]
+

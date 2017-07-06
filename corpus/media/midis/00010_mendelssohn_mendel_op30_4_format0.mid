@@ -1,0 +1,11 @@
+--2017-07-06 05:55:59--  http://www.piano-midi.de/midis/mendelssohn/mendel_op30_4_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 27243 (27K) [audio/midi]
+Saving to: 'mendel_op30_4_format0.mid'
+
+     0K .......... .......... ......                          100%  830K=0.03s
+
+2017-07-06 05:56:00 (830 KB/s) - 'mendel_op30_4_format0.mid' saved [27243/27243]
+

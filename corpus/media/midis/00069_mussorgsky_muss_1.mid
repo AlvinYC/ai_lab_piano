@@ -1,0 +1,11 @@
+--2017-07-06 06:13:14--  http://www.piano-midi.de/midis/mussorgsky/muss_1.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21059 (21K) [audio/midi]
+Saving to: 'muss_1.mid'
+
+     0K .......... ..........                                 100%  965K=0.02s
+
+2017-07-06 06:13:15 (965 KB/s) - 'muss_1.mid' saved [21059/21059]
+

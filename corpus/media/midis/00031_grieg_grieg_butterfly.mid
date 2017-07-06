@@ -1,0 +1,11 @@
+--2017-07-06 06:03:16--  http://www.piano-midi.de/midis/grieg/grieg_butterfly.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12501 (12K) [audio/midi]
+Saving to: 'grieg_butterfly.mid'
+
+     0K .......... ..                                         100%  695K=0.02s
+
+2017-07-06 06:03:16 (695 KB/s) - 'grieg_butterfly.mid' saved [12501/12501]
+

@@ -1,0 +1,11 @@
+--2017-07-06 06:31:40--  http://www.piano-midi.de/midis/moszkowski/mos_op36_6.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34577 (34K) [audio/midi]
+Saving to: 'mos_op36_6.mid'
+
+     0K .......... .......... .......... ...                  100% 1.20M=0.03s
+
+2017-07-06 06:31:42 (1.20 MB/s) - 'mos_op36_6.mid' saved [34577/34577]
+

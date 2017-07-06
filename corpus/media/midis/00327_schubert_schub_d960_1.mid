@@ -1,0 +1,13 @@
+--2017-07-06 07:51:56--  http://www.piano-midi.de/midis/schubert/schub_d960_1.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 105711 (103K) [audio/midi]
+Saving to: 'schub_d960_1.mid'
+
+     0K .......... .......... .......... .......... .......... 48%  125K 0s
+    50K .......... .......... .......... .......... .......... 96%  133K 0s
+   100K ...                                                   100% 1.42M=0.8s
+
+2017-07-06 07:51:59 (132 KB/s) - 'schub_d960_1.mid' saved [105711/105711]
+

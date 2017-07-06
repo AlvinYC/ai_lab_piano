@@ -1,0 +1,11 @@
+--2017-07-06 06:03:06--  http://www.piano-midi.de/midis/grieg/grieg_halling.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4976 (4.9K) [audio/midi]
+Saving to: 'grieg_halling.mid'
+
+     0K ....                                                  100% 1.81M=0.003s
+
+2017-07-06 06:03:09 (1.81 MB/s) - 'grieg_halling.mid' saved [4976/4976]
+

@@ -1,0 +1,11 @@
+--2017-07-06 07:43:46--  http://www.piano-midi.de/midis/schubert/schumm-4.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28162 (28K) [audio/midi]
+Saving to: 'schumm-4.mid'
+
+     0K .......... .......... .......                         100%  873K=0.03s
+
+2017-07-06 07:43:47 (873 KB/s) - 'schumm-4.mid' saved [28162/28162]
+

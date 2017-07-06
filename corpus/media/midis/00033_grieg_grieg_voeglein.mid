@@ -1,0 +1,11 @@
+--2017-07-06 06:03:35--  http://www.piano-midi.de/midis/grieg/grieg_voeglein.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8369 (8.2K) [audio/midi]
+Saving to: 'grieg_voeglein.mid'
+
+     0K ........                                              100%  425K=0.02s
+
+2017-07-06 06:03:36 (425 KB/s) - 'grieg_voeglein.mid' saved [8369/8369]
+

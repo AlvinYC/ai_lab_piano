@@ -1,0 +1,11 @@
+--2017-07-06 06:45:59--  http://www.piano-midi.de/midis/clementi/clementi_opus36_5_3.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15677 (15K) [audio/midi]
+Saving to: 'clementi_opus36_5_3.mid'
+
+     0K .......... .....                                      100% 1.46M=0.01s
+
+2017-07-06 06:46:01 (1.46 MB/s) - 'clementi_opus36_5_3.mid' saved [15677/15677]
+

@@ -1,0 +1,11 @@
+--2017-07-06 07:17:17--  http://www.piano-midi.de/midis/liszt/liz_et3.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39023 (38K) [audio/midi]
+Saving to: 'liz_et3.mid'
+
+     0K .......... .......... .......... ........             100%  116K=0.3s
+
+2017-07-06 07:17:19 (116 KB/s) - 'liz_et3.mid' saved [39023/39023]
+

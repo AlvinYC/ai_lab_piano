@@ -1,0 +1,11 @@
+--2017-07-06 07:13:36--  http://www.piano-midi.de/midis/burgmueller/burg_geschwindigkeit.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12727 (12K) [audio/midi]
+Saving to: 'burg_geschwindigkeit.mid'
+
+     0K .......... ..                                         100% 1.54M=0.008s
+
+2017-07-06 07:13:37 (1.54 MB/s) - 'burg_geschwindigkeit.mid' saved [12727/12727]
+

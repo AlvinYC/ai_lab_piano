@@ -1,0 +1,11 @@
+--2017-07-06 06:18:44--  http://www.piano-midi.de/midis/beethoven/pathetique_3.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 28484 (28K) [audio/midi]
+Saving to: 'pathetique_3.mid'
+
+     0K .......... .......... .......                         100%  192K=0.1s
+
+2017-07-06 06:18:45 (192 KB/s) - 'pathetique_3.mid' saved [28484/28484]
+

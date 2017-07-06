@@ -1,0 +1,11 @@
+--2017-07-06 06:58:58--  http://www.piano-midi.de/midis/chopin/chpn-p17_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21832 (21K) [audio/midi]
+Saving to: 'chpn-p17_format0.mid'
+
+     0K .......... .......... .                               100%  879K=0.02s
+
+2017-07-06 06:58:58 (879 KB/s) - 'chpn-p17_format0.mid' saved [21832/21832]
+

@@ -1,0 +1,11 @@
+--2017-07-06 07:13:11--  http://www.piano-midi.de/midis/burgmueller/burg_quelle.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13341 (13K) [audio/midi]
+Saving to: 'burg_quelle.mid'
+
+     0K .......... ...                                        100%  796K=0.02s
+
+2017-07-06 07:13:12 (796 KB/s) - 'burg_quelle.mid' saved [13341/13341]
+

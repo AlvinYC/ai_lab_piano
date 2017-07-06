@@ -1,0 +1,11 @@
+--2017-07-06 07:55:04--  http://www.piano-midi.de/midis/godowsky/god_alb_esp2.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11592 (11K) [audio/midi]
+Saving to: 'god_alb_esp2.mid'
+
+     0K .......... .                                          100% 4.43M=0.002s
+
+2017-07-06 07:55:05 (4.43 MB/s) - 'god_alb_esp2.mid' saved [11592/11592]
+

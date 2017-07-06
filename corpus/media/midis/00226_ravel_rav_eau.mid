@@ -1,0 +1,11 @@
+--2017-07-06 07:10:22--  http://www.piano-midi.de/midis/ravel/rav_eau.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40975 (40K) [audio/midi]
+Saving to: 'rav_eau.mid'
+
+     0K .......... .......... .......... ..........           100% 86.7K=0.5s
+
+2017-07-06 07:10:25 (86.7 KB/s) - 'rav_eau.mid' saved [40975/40975]
+

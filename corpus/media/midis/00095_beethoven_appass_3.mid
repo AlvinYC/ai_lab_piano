@@ -1,0 +1,12 @@
+--2017-07-06 06:25:44--  http://www.piano-midi.de/midis/beethoven/appass_3.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 67826 (66K) [audio/midi]
+Saving to: 'appass_3.mid'
+
+     0K .......... .......... .......... .......... .......... 75%  133K 0s
+    50K .......... ......                                     100%  868K=0.4s
+
+2017-07-06 06:25:45 (168 KB/s) - 'appass_3.mid' saved [67826/67826]
+

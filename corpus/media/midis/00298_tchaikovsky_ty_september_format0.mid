@@ -1,0 +1,11 @@
+--2017-07-06 07:35:55--  http://www.piano-midi.de/midis/tchaikovsky/ty_september_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19512 (19K) [audio/midi]
+Saving to: 'ty_september_format0.mid'
+
+     0K .......... .........                                  100%  545K=0.03s
+
+2017-07-06 07:35:56 (545 KB/s) - 'ty_september_format0.mid' saved [19512/19512]
+

@@ -1,0 +1,11 @@
+--2017-07-06 05:52:20--  http://www.piano-midi.de/midis/mendelssohn/mendel_op19_1.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14825 (14K) [audio/midi]
+Saving to: 'mendel_op19_1.mid'
+
+     0K .......... ....                                       100%  375K=0.04s
+
+2017-07-06 05:52:22 (375 KB/s) - 'mendel_op19_1.mid' saved [14825/14825]
+

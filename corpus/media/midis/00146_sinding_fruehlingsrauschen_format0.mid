@@ -1,0 +1,11 @@
+--2017-07-06 06:47:46--  http://www.piano-midi.de/midis/sinding/fruehlingsrauschen_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 30469 (30K) [audio/midi]
+Saving to: 'fruehlingsrauschen_format0.mid'
+
+     0K .......... .......... .........                       100% 2.26M=0.01s
+
+2017-07-06 06:47:47 (2.26 MB/s) - 'fruehlingsrauschen_format0.mid' saved [30469/30469]
+

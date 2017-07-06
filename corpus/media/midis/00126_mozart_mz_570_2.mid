@@ -1,0 +1,11 @@
+--2017-07-06 06:42:02--  http://www.piano-midi.de/midis/mozart/mz_570_2.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21926 (21K) [audio/midi]
+Saving to: 'mz_570_2.mid'
+
+     0K .......... .......... .                               100% 1.20M=0.02s
+
+2017-07-06 06:42:03 (1.20 MB/s) - 'mz_570_2.mid' saved [21926/21926]
+

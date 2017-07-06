@@ -1,0 +1,11 @@
+--2017-07-06 06:52:20--  http://www.piano-midi.de/midis/chopin/chpn_op10_e12.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21380 (21K) [audio/midi]
+Saving to: 'chpn_op10_e12.mid'
+
+     0K .......... ..........                                 100% 1.03M=0.02s
+
+2017-07-06 06:52:21 (1.03 MB/s) - 'chpn_op10_e12.mid' saved [21380/21380]
+

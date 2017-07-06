@@ -1,0 +1,11 @@
+--2017-07-06 07:09:57--  http://www.piano-midi.de/midis/albeniz/alb_se8.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 25252 (25K) [audio/midi]
+Saving to: 'alb_se8.mid'
+
+     0K .......... .......... ....                            100%  701K=0.04s
+
+2017-07-06 07:09:58 (701 KB/s) - 'alb_se8.mid' saved [25252/25252]
+

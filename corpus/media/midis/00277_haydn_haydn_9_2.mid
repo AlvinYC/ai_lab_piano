@@ -1,0 +1,11 @@
+--2017-07-06 07:28:11--  http://www.piano-midi.de/midis/haydn/haydn_9_2.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14140 (14K) [audio/midi]
+Saving to: 'haydn_9_2.mid'
+
+     0K .......... ...                                        100% 1.01M=0.01s
+
+2017-07-06 07:28:12 (1.01 MB/s) - 'haydn_9_2.mid' saved [14140/14140]
+

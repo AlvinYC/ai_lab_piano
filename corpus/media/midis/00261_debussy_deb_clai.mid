@@ -1,0 +1,11 @@
+--2017-07-06 07:24:16--  http://www.piano-midi.de/midis/debussy/deb_clai.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 17112 (17K) [audio/midi]
+Saving to: 'deb_clai.mid'
+
+     0K .......... ......                                     100% 1.97M=0.008s
+
+2017-07-06 07:24:17 (1.97 MB/s) - 'deb_clai.mid' saved [17112/17112]
+

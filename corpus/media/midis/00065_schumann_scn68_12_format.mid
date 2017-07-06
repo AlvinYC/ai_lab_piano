@@ -1,0 +1,15 @@
+--2017-07-06 06:12:53--  http://www.piano-midi.de/midis/schumann/scn68_12_format.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.piano-midi.de/midis/schumann/scn68_12_format0.mid [following]
+--2017-07-06 06:12:53--  http://www.piano-midi.de/midis/schumann/scn68_12_format0.mid
+Reusing existing connection to www.piano-midi.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 14917 (15K) [audio/midi]
+Saving to: 'scn68_12_format.mid'
+
+     0K .......... ....                                       100%  829K=0.02s
+
+2017-07-06 06:12:54 (829 KB/s) - 'scn68_12_format.mid' saved [14917/14917]
+

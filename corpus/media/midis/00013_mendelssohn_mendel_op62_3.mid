@@ -1,0 +1,11 @@
+--2017-07-06 05:56:55--  http://www.piano-midi.de/midis/mendelssohn/mendel_op62_3.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8766 (8.6K) [audio/midi]
+Saving to: 'mendel_op62_3.mid'
+
+     0K ........                                              100%  729K=0.01s
+
+2017-07-06 05:56:56 (729 KB/s) - 'mendel_op62_3.mid' saved [8766/8766]
+

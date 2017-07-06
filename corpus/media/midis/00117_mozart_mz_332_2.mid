@@ -1,0 +1,11 @@
+--2017-07-06 06:37:33--  http://www.piano-midi.de/midis/mozart/mz_332_2.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15279 (15K) [audio/midi]
+Saving to: 'mz_332_2.mid'
+
+     0K .......... ....                                       100% 1.14M=0.01s
+
+2017-07-06 06:37:35 (1.14 MB/s) - 'mz_332_2.mid' saved [15279/15279]
+

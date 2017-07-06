@@ -1,0 +1,12 @@
+--2017-07-06 06:35:06--  http://www.piano-midi.de/midis/mozart/mz_331_1.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 60764 (59K) [audio/midi]
+Saving to: 'mz_331_1.mid'
+
+     0K .......... .......... .......... .......... .......... 84%  134K 0s
+    50K .........                                             100% 2.06M=0.4s
+
+2017-07-06 06:35:08 (157 KB/s) - 'mz_331_1.mid' saved [60764/60764]
+

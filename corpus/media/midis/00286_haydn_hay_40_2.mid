@@ -1,0 +1,11 @@
+--2017-07-06 07:31:53--  http://www.piano-midi.de/midis/haydn/hay_40_2.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21596 (21K) [audio/midi]
+Saving to: 'hay_40_2.mid'
+
+     0K .......... .......... .                               100%  929K=0.02s
+
+2017-07-06 07:31:54 (929 KB/s) - 'hay_40_2.mid' saved [21596/21596]
+

@@ -1,0 +1,11 @@
+--2017-07-06 07:36:11--  http://www.piano-midi.de/midis/tchaikovsky/ty_oktober.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10629 (10K) [audio/midi]
+Saving to: 'ty_oktober.mid'
+
+     0K ..........                                            100% 1.24M=0.008s
+
+2017-07-06 07:36:12 (1.24 MB/s) - 'ty_oktober.mid' saved [10629/10629]
+

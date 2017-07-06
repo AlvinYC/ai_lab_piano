@@ -1,0 +1,11 @@
+--2017-07-06 06:05:10--  http://www.piano-midi.de/midis/grieg/grieg_wedding.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 34219 (33K) [audio/midi]
+Saving to: 'grieg_wedding.mid'
+
+     0K .......... .......... .......... ...                  100%  344K=0.1s
+
+2017-07-06 06:05:11 (344 KB/s) - 'grieg_wedding.mid' saved [34219/34219]
+

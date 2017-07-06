@@ -1,0 +1,11 @@
+--2017-07-06 07:54:54--  http://www.piano-midi.de/midis/godowsky/god_chpn_op10_e01.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21291 (21K) [audio/midi]
+Saving to: 'god_chpn_op10_e01.mid'
+
+     0K .......... ..........                                 100%  874K=0.02s
+
+2017-07-06 07:54:56 (874 KB/s) - 'god_chpn_op10_e01.mid' saved [21291/21291]
+

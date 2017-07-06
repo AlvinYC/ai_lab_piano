@@ -1,0 +1,11 @@
+--2017-07-06 07:30:32--  http://www.piano-midi.de/midis/haydn/haydn_35_2.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 19805 (19K) [audio/midi]
+Saving to: 'haydn_35_2.mid'
+
+     0K .......... .........                                  100% 1.99M=0.009s
+
+2017-07-06 07:30:33 (1.99 MB/s) - 'haydn_35_2.mid' saved [19805/19805]
+

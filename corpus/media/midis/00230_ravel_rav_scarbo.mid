@@ -1,0 +1,12 @@
+--2017-07-06 07:12:19--  http://www.piano-midi.de/midis/ravel/rav_scarbo.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 97447 (95K) [audio/midi]
+Saving to: 'rav_scarbo.mid'
+
+     0K .......... .......... .......... .......... .......... 52%  132K 0s
+    50K .......... .......... .......... .......... .....     100%  947K=0.4s
+
+2017-07-06 07:12:21 (223 KB/s) - 'rav_scarbo.mid' saved [97447/97447]
+

@@ -1,0 +1,12 @@
+--2017-07-06 06:19:09--  http://www.piano-midi.de/midis/beethoven/beethoven_opus22_1.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 52185 (51K) [audio/midi]
+Saving to: 'beethoven_opus22_1.mid'
+
+     0K .......... .......... .......... .......... .......... 98%  128K 0s
+    50K                                                       100% 1835G=0.4s
+
+2017-07-06 06:19:11 (131 KB/s) - 'beethoven_opus22_1.mid' saved [52185/52185]
+

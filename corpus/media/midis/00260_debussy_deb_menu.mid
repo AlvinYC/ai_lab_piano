@@ -1,0 +1,11 @@
+--2017-07-06 07:23:57--  http://www.piano-midi.de/midis/debussy/deb_menu.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 22043 (22K) [audio/midi]
+Saving to: 'deb_menu.mid'
+
+     0K .......... .......... .                               100%  924K=0.02s
+
+2017-07-06 07:23:58 (924 KB/s) - 'deb_menu.mid' saved [22043/22043]
+

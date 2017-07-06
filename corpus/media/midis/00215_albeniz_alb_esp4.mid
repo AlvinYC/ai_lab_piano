@@ -1,0 +1,11 @@
+--2017-07-06 07:06:28--  http://www.piano-midi.de/midis/albeniz/alb_esp4.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14872 (15K) [audio/midi]
+Saving to: 'alb_esp4.mid'
+
+     0K .......... ....                                       100% 12.7M=0.001s
+
+2017-07-06 07:06:29 (12.7 MB/s) - 'alb_esp4.mid' saved [14872/14872]
+

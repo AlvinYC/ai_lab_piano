@@ -1,0 +1,16 @@
+--2017-07-06 07:50:28--  http://www.piano-midi.de/midis/schubert/schubert_d935_3.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.piano-midi.de/midis/schubert/schubert_D935_3.mid [following]
+--2017-07-06 07:50:29--  http://www.piano-midi.de/midis/schubert/schubert_D935_3.mid
+Reusing existing connection to www.piano-midi.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 59150 (58K) [audio/midi]
+Saving to: 'schubert_d935_3.mid'
+
+     0K .......... .......... .......... .......... .......... 86%  137K 0s
+    50K .......                                               100%  715K=0.4s
+
+2017-07-06 07:50:30 (154 KB/s) - 'schubert_d935_3.mid' saved [59150/59150]
+

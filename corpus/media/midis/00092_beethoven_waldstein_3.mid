@@ -1,0 +1,12 @@
+--2017-07-06 06:23:38--  http://www.piano-midi.de/midis/beethoven/waldstein_3.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 76729 (75K) [audio/midi]
+Saving to: 'waldstein_3.mid'
+
+     0K .......... .......... .......... .......... .......... 66%  130K 0s
+    50K .......... .......... ....                            100%  495K=0.4s
+
+2017-07-06 06:23:40 (173 KB/s) - 'waldstein_3.mid' saved [76729/76729]
+

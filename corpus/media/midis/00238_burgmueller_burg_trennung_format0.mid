@@ -1,0 +1,11 @@
+--2017-07-06 07:14:17--  http://www.piano-midi.de/midis/burgmueller/burg_trennung_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9357 (9.1K) [audio/midi]
+Saving to: 'burg_trennung_format0.mid'
+
+     0K .........                                             100% 2.40M=0.004s
+
+2017-07-06 07:14:18 (2.40 MB/s) - 'burg_trennung_format0.mid' saved [9357/9357]
+

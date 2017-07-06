@@ -1,0 +1,11 @@
+--2017-07-06 07:11:48--  http://www.piano-midi.de/midis/ravel/rav_gib.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12499 (12K) [audio/midi]
+Saving to: 'rav_gib.mid'
+
+     0K .......... ..                                         100% 2.18M=0.005s
+
+2017-07-06 07:11:50 (2.18 MB/s) - 'rav_gib.mid' saved [12499/12499]
+

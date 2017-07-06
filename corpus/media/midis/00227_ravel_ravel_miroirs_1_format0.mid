@@ -1,0 +1,11 @@
+--2017-07-06 07:10:53--  http://www.piano-midi.de/midis/ravel/ravel_miroirs_1_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32102 (31K) [audio/midi]
+Saving to: 'ravel_miroirs_1_format0.mid'
+
+     0K .......... .......... .......... .                    100%  913K=0.03s
+
+2017-07-06 07:10:53 (913 KB/s) - 'ravel_miroirs_1_format0.mid' saved [32102/32102]
+

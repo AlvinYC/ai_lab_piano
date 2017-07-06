@@ -1,0 +1,11 @@
+--2017-07-06 06:13:10--  http://www.piano-midi.de/midis/bach/bach_846_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12633 (12K) [audio/midi]
+Saving to: 'bach_846_format0.mid'
+
+     0K .......... ..                                         100% 1.05M=0.01s
+
+2017-07-06 06:13:11 (1.05 MB/s) - 'bach_846_format0.mid' saved [12633/12633]
+

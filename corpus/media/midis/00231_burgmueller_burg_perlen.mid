@@ -1,0 +1,11 @@
+--2017-07-06 07:12:59--  http://www.piano-midi.de/midis/burgmueller/burg_perlen.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12826 (13K) [audio/midi]
+Saving to: 'burg_perlen.mid'
+
+     0K .......... ..                                         100%  927K=0.01s
+
+2017-07-06 07:13:01 (927 KB/s) - 'burg_perlen.mid' saved [12826/12826]
+

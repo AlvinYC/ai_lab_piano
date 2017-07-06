@@ -1,0 +1,11 @@
+--2017-07-06 07:26:22--  http://www.piano-midi.de/midis/haydn/haydn_7_1.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6184 (6.0K) [audio/midi]
+Saving to: 'haydn_7_1.mid'
+
+     0K ......                                                100% 1.40M=0.004s
+
+2017-07-06 07:26:23 (1.40 MB/s) - 'haydn_7_1.mid' saved [6184/6184]
+

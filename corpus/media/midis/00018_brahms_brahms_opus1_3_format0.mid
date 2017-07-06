@@ -1,0 +1,11 @@
+--2017-07-06 05:59:09--  http://www.piano-midi.de/midis/brahms/brahms_opus1_3_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 40327 (39K) [audio/midi]
+Saving to: 'brahms_opus1_3_format0.mid'
+
+     0K .......... .......... .......... .........            100%  113K=0.3s
+
+2017-07-06 05:59:10 (113 KB/s) - 'brahms_opus1_3_format0.mid' saved [40327/40327]
+

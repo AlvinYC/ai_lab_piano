@@ -1,0 +1,11 @@
+--2017-07-06 07:14:26--  http://www.piano-midi.de/midis/burgmueller/burg_spinnerlied.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13013 (13K) [audio/midi]
+Saving to: 'burg_spinnerlied.mid'
+
+     0K .......... ..                                         100%  779K=0.02s
+
+2017-07-06 07:14:27 (779 KB/s) - 'burg_spinnerlied.mid' saved [13013/13013]
+

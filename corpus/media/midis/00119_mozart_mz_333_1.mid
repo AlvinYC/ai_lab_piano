@@ -1,0 +1,12 @@
+--2017-07-06 06:38:39--  http://www.piano-midi.de/midis/mozart/mz_333_1.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 54070 (53K) [audio/midi]
+Saving to: 'mz_333_1.mid'
+
+     0K .......... .......... .......... .......... .......... 94%  137K 0s
+    50K ..                                                    100% 1.27M=0.4s
+
+2017-07-06 06:38:41 (143 KB/s) - 'mz_333_1.mid' saved [54070/54070]
+

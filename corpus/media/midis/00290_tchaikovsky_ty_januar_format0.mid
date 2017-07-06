@@ -1,0 +1,11 @@
+--2017-07-06 07:33:31--  http://www.piano-midi.de/midis/tchaikovsky/ty_januar_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 18958 (19K) [audio/midi]
+Saving to: 'ty_januar_format0.mid'
+
+     0K .......... ........                                   100% 1.17M=0.02s
+
+2017-07-06 07:33:32 (1.17 MB/s) - 'ty_januar_format0.mid' saved [18958/18958]
+

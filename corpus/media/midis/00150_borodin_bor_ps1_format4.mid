@@ -1,0 +1,15 @@
+--2017-07-06 06:48:07--  http://www.piano-midi.de/midis/borodin/bor_ps1_format4.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: http://www.piano-midi.de/midis/borodin/bor_ps1_format0.mid [following]
+--2017-07-06 06:48:08--  http://www.piano-midi.de/midis/borodin/bor_ps1_format0.mid
+Reusing existing connection to www.piano-midi.de:80.
+HTTP request sent, awaiting response... 200 OK
+Length: 7571 (7.4K) [audio/midi]
+Saving to: 'bor_ps1_format4.mid'
+
+     0K .......                                               100%  203K=0.04s
+
+2017-07-06 06:48:08 (203 KB/s) - 'bor_ps1_format4.mid' saved [7571/7571]
+

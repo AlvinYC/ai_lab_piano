@@ -1,0 +1,11 @@
+--2017-07-06 07:24:36--  http://www.piano-midi.de/midis/debussy/deb_pass.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23067 (23K) [audio/midi]
+Saving to: 'deb_pass.mid'
+
+     0K .......... .......... ..                              100%  558K=0.04s
+
+2017-07-06 07:24:38 (558 KB/s) - 'deb_pass.mid' saved [23067/23067]
+

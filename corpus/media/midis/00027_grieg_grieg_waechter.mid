@@ -1,0 +1,11 @@
+--2017-07-06 06:02:23--  http://www.piano-midi.de/midis/grieg/grieg_waechter.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6629 (6.5K) [audio/midi]
+Saving to: 'grieg_waechter.mid'
+
+     0K ......                                                100%  702K=0.009s
+
+2017-07-06 06:02:24 (702 KB/s) - 'grieg_waechter.mid' saved [6629/6629]
+

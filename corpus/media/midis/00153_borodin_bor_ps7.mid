@@ -1,0 +1,11 @@
+--2017-07-06 06:48:12--  http://www.piano-midi.de/midis/borodin/bor_ps7.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8842 (8.6K) [audio/midi]
+Saving to: 'bor_ps7.mid'
+
+     0K ........                                              100% 1.38M=0.006s
+
+2017-07-06 06:48:13 (1.38 MB/s) - 'bor_ps7.mid' saved [8842/8842]
+

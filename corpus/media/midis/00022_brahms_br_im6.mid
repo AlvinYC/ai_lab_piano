@@ -1,0 +1,11 @@
+--2017-07-06 06:00:45--  http://www.piano-midi.de/midis/brahms/br_im6.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10305 (10K) [audio/midi]
+Saving to: 'br_im6.mid'
+
+     0K ..........                                            100%  777K=0.01s
+
+2017-07-06 06:00:46 (777 KB/s) - 'br_im6.mid' saved [10305/10305]
+

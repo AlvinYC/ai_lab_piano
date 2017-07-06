@@ -1,0 +1,11 @@
+--2017-07-06 07:38:01--  http://www.piano-midi.de/midis/schubert/schubert_D850_2_format0.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 45577 (45K) [audio/midi]
+Saving to: 'schubert_D850_2_format0.mid'
+
+     0K .......... .......... .......... .......... ....      100%  124K=0.4s
+
+2017-07-06 07:38:02 (124 KB/s) - 'schubert_D850_2_format0.mid' saved [45577/45577]
+

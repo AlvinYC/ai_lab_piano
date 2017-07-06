@@ -1,0 +1,11 @@
+--2017-07-06 07:26:08--  http://www.piano-midi.de/midis/debussy/debussy_cc_6.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12867 (13K) [audio/midi]
+Saving to: 'debussy_cc_6.mid'
+
+     0K .......... ..                                         100% 1023K=0.01s
+
+2017-07-06 07:26:09 (1023 KB/s) - 'debussy_cc_6.mid' saved [12867/12867]
+

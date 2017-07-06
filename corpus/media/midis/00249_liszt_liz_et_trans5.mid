@@ -1,0 +1,11 @@
+--2017-07-06 07:19:20--  http://www.piano-midi.de/midis/liszt/liz_et_trans5.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 36570 (36K) [audio/midi]
+Saving to: 'liz_et_trans5.mid'
+
+     0K .......... .......... .......... .....                100%  102K=0.3s
+
+2017-07-06 07:19:22 (102 KB/s) - 'liz_et_trans5.mid' saved [36570/36570]
+

@@ -1,0 +1,11 @@
+--2017-07-06 06:02:11--  http://www.piano-midi.de/midis/grieg/grieg_walzer.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7423 (7.2K) [audio/midi]
+Saving to: 'grieg_walzer.mid'
+
+     0K .......                                               100% 2.05M=0.003s
+
+2017-07-06 06:02:12 (2.05 MB/s) - 'grieg_walzer.mid' saved [7423/7423]
+

@@ -1,0 +1,11 @@
+--2017-07-06 07:23:35--  http://www.piano-midi.de/midis/granados/gra_esp_4.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 21182 (21K) [audio/midi]
+Saving to: 'gra_esp_4.mid'
+
+     0K .......... ..........                                 100%  574K=0.04s
+
+2017-07-06 07:23:35 (574 KB/s) - 'gra_esp_4.mid' saved [21182/21182]
+

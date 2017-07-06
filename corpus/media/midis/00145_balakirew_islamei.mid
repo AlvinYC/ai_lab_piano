@@ -1,0 +1,12 @@
+--2017-07-06 06:46:58--  http://www.piano-midi.de/midis/balakirew/islamei.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 80075 (78K) [audio/midi]
+Saving to: 'islamei.mid'
+
+     0K .......... .......... .......... .......... .......... 63%  129K 0s
+    50K .......... .......... ........                        100%  679K=0.4s
+
+2017-07-06 06:46:59 (182 KB/s) - 'islamei.mid' saved [80075/80075]
+

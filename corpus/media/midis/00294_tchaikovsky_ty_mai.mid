@@ -1,0 +1,11 @@
+--2017-07-06 07:34:42--  http://www.piano-midi.de/midis/tchaikovsky/ty_mai.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 12760 (12K) [audio/midi]
+Saving to: 'ty_mai.mid'
+
+     0K .......... ..                                         100% 1.90M=0.006s
+
+2017-07-06 07:34:44 (1.90 MB/s) - 'ty_mai.mid' saved [12760/12760]
+

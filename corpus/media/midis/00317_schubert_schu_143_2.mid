@@ -1,0 +1,11 @@
+--2017-07-06 07:45:55--  http://www.piano-midi.de/midis/schubert/schu_143_2.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 13970 (14K) [audio/midi]
+Saving to: 'schu_143_2.mid'
+
+     0K .......... ...                                        100% 1.91M=0.007s
+
+2017-07-06 07:45:57 (1.91 MB/s) - 'schu_143_2.mid' saved [13970/13970]
+

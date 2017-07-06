@@ -1,0 +1,12 @@
+--2017-07-06 07:00:26--  http://www.piano-midi.de/midis/chopin/chp_op31.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 56212 (55K) [audio/midi]
+Saving to: 'chp_op31.mid'
+
+     0K .......... .......... .......... .......... .......... 91%  129K 0s
+    50K ....                                                  100% 1.72M=0.4s
+
+2017-07-06 07:00:29 (140 KB/s) - 'chp_op31.mid' saved [56212/56212]
+

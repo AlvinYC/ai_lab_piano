@@ -1,0 +1,11 @@
+--2017-07-06 06:12:52--  http://www.piano-midi.de/midis/schumann/scn68_12.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15234 (15K) [audio/midi]
+Saving to: 'scn68_12.mid'
+
+     0K .......... ....                                       100%  754K=0.02s
+
+2017-07-06 06:12:53 (754 KB/s) - 'scn68_12.mid' saved [15234/15234]
+

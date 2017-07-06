@@ -1,0 +1,11 @@
+--2017-07-06 06:08:34--  http://www.piano-midi.de/midis/schumann/scn15_11.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7595 (7.4K) [audio/midi]
+Saving to: 'scn15_11.mid'
+
+     0K .......                                               100% 19.9M=0s
+
+2017-07-06 06:08:35 (19.9 MB/s) - 'scn15_11.mid' saved [7595/7595]
+

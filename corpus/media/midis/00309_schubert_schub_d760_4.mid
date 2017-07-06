@@ -1,0 +1,11 @@
+--2017-07-06 07:42:08--  http://www.piano-midi.de/midis/schubert/schub_d760_4.mid
+Resolving www.piano-midi.de (www.piano-midi.de)... 82.165.134.185
+Connecting to www.piano-midi.de (www.piano-midi.de)|82.165.134.185|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 32367 (32K) [audio/midi]
+Saving to: 'schub_d760_4.mid'
+
+     0K .......... .......... .......... .                    100% 1.53M=0.02s
+
+2017-07-06 07:42:09 (1.53 MB/s) - 'schub_d760_4.mid' saved [32367/32367]
+
